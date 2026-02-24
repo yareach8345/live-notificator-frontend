@@ -118,10 +118,10 @@ onUnmounted(() => {
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-align-justify-icon lucide-align-justify"><path d="M3 12h18"/><path d="M3 18h18"/><path d="M3 6h18"/></svg>
         </button-neon>
       </div>
-      <div class="flex justify-center items-center max-sm:flex-1">
-        <img src="/images/icons/platform/chzzk.png" alt="치지직 로고" class="h-14"/>
+      <div class="flex justify-center items-center max-sm:flex-1 space-x-2">
+        <img src="/images/icons/icon.svg" alt="치지직 로고" class="h-14"/>
         <h1 class="font-blackHan leading-none relative top-[2px] text-center text-4xl text-primary">
-          Chzzk Notification
+          Live Notificator
         </h1>
       </div>
     </header>

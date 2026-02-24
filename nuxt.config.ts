@@ -9,7 +9,7 @@ export default defineNuxtConfig({
           href: 'https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=IBM+Plex+Sans+KR&display=swap'
         }
       ],
-      titleTemplate: '%s | Chzzk Notification'
+      titleTemplate: '%s | Live Notificator'
     }
   },
   modules: [
